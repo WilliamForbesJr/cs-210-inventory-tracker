@@ -1,0 +1,2 @@
+C:\Users\William\Desktop\School\ProgrammingLanguages\ProjectThree\x64\Release\ProjectThree.exe
+C:\Users\William\Desktop\School\ProgrammingLanguages\ProjectThree\cs-210-inventory-tracker\x64\Release\ProjectThree.exe

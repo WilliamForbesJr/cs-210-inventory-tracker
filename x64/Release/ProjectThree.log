@@ -1,0 +1,12 @@
+﻿  Controller.cpp
+  InputController.cpp
+  PythonController.cpp
+  Source.cpp
+  ViewController.cpp
+C:\Users\William\Desktop\School\ProgrammingLanguages\ProjectThree\cs-210-inventory-tracker\ViewController.cpp(25,29): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  336 of 344 functions (97.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectThree.vcxproj -> C:\Users\William\Desktop\School\ProgrammingLanguages\ProjectThree\cs-210-inventory-tracker\x64\Release\ProjectThree.exe
